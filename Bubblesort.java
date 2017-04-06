@@ -1,4 +1,4 @@
-/* Bubblesort
+/* Bubblesort pseudocode
 
 O(n^2) whenn n is large it is not practical 
 
